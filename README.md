@@ -23,14 +23,14 @@ util - Database connection
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Reservation
-![Reservation](screenshots/reservation.png)
+![Reservation](reservation.png)
 
 ### Billing
-![Billing](screenshots/billing.png)
+![Billing](billing.png)
 
