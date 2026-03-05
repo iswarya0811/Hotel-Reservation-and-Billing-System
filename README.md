@@ -20,4 +20,17 @@ main - Application entry point
 ui - User interface forms
 dao - Database operations
 util - Database connection
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Reservation
+![Reservation](screenshots/reservation.png)
+
+### Billing
+![Billing](screenshots/billing.png)
 
