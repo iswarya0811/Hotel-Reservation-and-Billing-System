@@ -50,7 +50,7 @@ public class Billing extends JFrame {
         finalLabel = createResultLabel("Final Amount: ",500);
          RoundedButton backButton = new RoundedButton("Back to Dashboard");
         backButton.setBackground(new Color(120,120,120));
-        backButton.setBounds(550,150,250,45);  
+        backButton.setBounds(550,650,250,45);  
         backButton.addActionListener(e -> {
             new Dashboard(true);
             dispose();
@@ -193,3 +193,4 @@ public class Billing extends JFrame {
         }
     }
 }
+
